@@ -3,10 +3,10 @@
 
 ## CatatanFilm
 + Nama Paket    : id.sch.smktelkom_mlg.privateassignment.xirpl209.catatanfilm
-- Link File APK : https://drive.google.com/file/d/0BzDq653c4K68bTZBR2JhMmY0dEE/view?usp=sharing
+- Link File APK : https://drive.google.com/file/d/0B3BUUzQcMoLDTlRnZ3B0RFJvcnc/view?usp=sharing
 
 ## Identitass
-+ Nama          : 
++ Nama          : Herlambang Septiaji Basuseno
 - Kelas         : XI RPL 2
 + Absen         : 09
 - NISN          : 9991583434
@@ -34,8 +34,8 @@
 + Aplikasi ini masih terbatas dari desainnya dan untuk penyimpanan datanya
 
 ## Screenshot
-+ ![alt text](https://github.com/herlambangsb/CatatanFilm/blob/master/1.PNG")
-+ ![alt text](https://github.com/herlambangsb/CatatanFilm/blob/master/2.PNG")
-+ ![alt text](https://github.com/herlambangsb/CatatanFilm/blob/master/3.PNG")
-+ ![alt text](https://github.com/herlambangsb/CatatanFilm/blob/master/4.PNG")
-+ ![alt text](https://github.com/herlambangsb/CatatanFilm/blob/master/5.PNG")
+![ScreenShot](https://github.com/herlambangsb/CatatanFilm/blob/master/1.PNG")
+![ScreenShot](https://github.com/herlambangsb/CatatanFilm/blob/master/2.PNG")
+![ScreenShot](https://github.com/herlambangsb/CatatanFilm/blob/master/3.PNG")
+![ScreenShot](https://github.com/herlambangsb/CatatanFilm/blob/master/4.PNG")
+![ScreenShot](https://github.com/herlambangsb/CatatanFilm/blob/master/5.PNG")
