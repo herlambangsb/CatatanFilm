@@ -34,8 +34,8 @@
 + Aplikasi ini masih terbatas dari desainnya dan untuk penyimpanan datanya
 
 ## Screenshot
-![ScreenShot](https://github.com/herlambangsb/CatatanFilm/blob/master/1.PNG")
-![ScreenShot](https://github.com/herlambangsb/CatatanFilm/blob/master/2.PNG")
-![ScreenShot](https://github.com/herlambangsb/CatatanFilm/blob/master/3.PNG")
-![ScreenShot](https://github.com/herlambangsb/CatatanFilm/blob/master/4.PNG")
-![ScreenShot](https://github.com/herlambangsb/CatatanFilm/blob/master/5.PNG")
+![ScreenShot](https://github.com/herlambangsb/CatatanFilm/blob/master/1.PNG)
+![ScreenShot](https://github.com/herlambangsb/CatatanFilm/blob/master/2.PNG)
+![ScreenShot](https://github.com/herlambangsb/CatatanFilm/blob/master/3.PNG)
+![ScreenShot](https://github.com/herlambangsb/CatatanFilm/blob/master/4.PNG)
+![ScreenShot](https://github.com/herlambangsb/CatatanFilm/blob/master/5.PNG)
