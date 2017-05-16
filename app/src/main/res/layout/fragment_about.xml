@@ -1,0 +1,41 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="id.sch.smktelkom_mlg.privateassignment.xirpl209.catatanfilm.AboutFragment">
+
+    <ImageView
+        android:id="@+id/imageViewAbout"
+        android:layout_width="wrap_content"
+        android:layout_height="279dp"
+        app:srcCompat="@drawable/About" />
+
+    <TextView
+        android:id="@+id/textViewNama"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/imageViewAbout"
+        android:padding="15dp"
+        android:text="Nama                   : Herlambang Septiaji Basuseno" />
+
+    <TextView
+        android:id="@+id/textViewKelas"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/imageViewAbout"
+        android:padding="15dp"
+        android:text="Kelas/NoAbs      : XI RPL 2/09" />
+
+
+    <TextView
+        android:id="@+id/textViewSekolah"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/imageViewAbout"
+        android:padding="15dp"
+        android:text="Sekolah               : SMK Telkom Malang" />
+
+
+</LinearLayout>

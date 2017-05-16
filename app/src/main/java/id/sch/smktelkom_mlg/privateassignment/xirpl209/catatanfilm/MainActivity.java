@@ -147,6 +147,8 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 return new NowPlayingFragment();
             else if (position == 2)
                 return new UpComing();
+            else if (position == 3)
+                return new AboutFragment();
             else
                 return PlaceholderFragment.newInstance(position + 1);
         }
@@ -154,7 +156,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         @Override
         public int getCount() {
             // Show 3 total pages.
-            return 3;
+            return 4;
         }
 
         @Override
@@ -166,6 +168,8 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                     return "NOW PLAYING";
                 case 2:
                     return "UPCOMING";
+                case 3:
+                    return "ABOUT";
             }
             return null;
         }
